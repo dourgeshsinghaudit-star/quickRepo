@@ -1,2 +1,3 @@
 # quickRepo
-to be staged
+a quick repo
+test2
